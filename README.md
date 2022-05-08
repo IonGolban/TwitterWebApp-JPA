@@ -7,5 +7,3 @@ IntelliJ IDEA project
 Technologies: Spring Boot, Spring Data JPA, PostgreSQL
 
 TODO: tests using JUnit
-
-    Project specifications: Twitter Project Specifications.pdf
